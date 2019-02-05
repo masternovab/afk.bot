@@ -1,0 +1,10 @@
+{
+  "prefix": "N!",
+  "logsChannel": "╰☆☆-MasterNova-log-☆☆╮",
+  "reportsChannel": "╰☆☆-masternova-log-☆☆╮",
+
+  "activity": {
+    "streaming": false,
+    "game": "Minekwaft"
+  }
+}
